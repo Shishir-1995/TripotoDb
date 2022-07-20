@@ -1,0 +1,73 @@
+{
+    "tours" : [
+        {
+            "domestic":[
+                {
+                    "Destination":"",
+                    "Ratings":"",
+                    "Package":{
+                        "Duration":"",
+                        "Price":""
+                    },
+                    "Contact":"",
+                    "Location":"",
+                    "Highlights":"",
+                    "Overview":{
+                        "Description":"",
+                        "Connectivity":""
+                    },
+                    "Itinerary":"",
+                    "Inclusion":"",
+                    "Exclusion":"",
+                    "Reviews":[]
+                }
+            ],
+            "International":[
+                {
+                    "Destination":"",
+                    "Ratings":"",
+                    "Package":{
+                        "Duration":"",
+                        "Price":""
+                    },
+                    "Contact":"",
+                    "Location":"",
+                    "Highlights":"",
+                    "Overview":{
+                        "Description":"",
+                        "Connectivity":""
+                    },
+                    "Itinerary":"",
+                    "Inclusion":"",
+                    "Exclusion":"",
+                    "Reviews":[]
+                }
+            ]
+        }
+    ],
+    "users":[
+        {
+            "Name":"",
+            "Image":"",
+            "Location":"",
+            "Social":{
+                "Follower":"",
+                "Following":"",
+                "Credit":""
+            },
+            "Activity":{
+                "Draft":[],
+                "Published":[],
+                "Like":[]
+            },
+            "Message":[
+                {
+                    "Content":""
+                }
+            ]
+            
+        }
+    ]
+
+    
+}
